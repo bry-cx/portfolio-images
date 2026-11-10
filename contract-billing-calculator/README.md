@@ -13,19 +13,19 @@ An Excel practice portfolio project simulating contract-based invoice calculatio
 
 ## Invoice Review
 
-![Invoice Review worksheet — upload invoice-review.png](invoice-review.png)
+![Invoice Review worksheet](Invoice-Review.png)
 
 The Invoice Review worksheet compares expected and entered invoices, flags discrepancies, and summarizes revenue, gross profit, and exceptions.
 
 ## Contract Setup
 
-![Contract Setup worksheet — upload contract-setup.png](contract-setup.png)
+![Contract Setup worksheet](Contract-Setup.png)
 
 The contract table stores the customer, contract type, pricing rules, markup percentages, and contract dates.
 
 ## Work Log
 
-![Work Log worksheet — upload work-log.png](work-log.png)
+![Work Log worksheet](Work-Log.png)
 
 The work log calculates labor costs, billable labor, material markups, and total internal cost from sample project activity.
 
@@ -42,12 +42,5 @@ The work log calculates labor costs, billable labor, material markups, and total
 | Net billing variance | +$92.25 |
 | Invoices requiring review | 2 |
 | Total billing discrepancies | $194.75 |
-
-> **Upload placeholders:** Add the four files below to this same folder using the exact filenames; the workbook link and screenshots above will work automatically once the files are uploaded.
->
-> - `Contract_Billing_Calculator_Practice.xlsx`
-> - `invoice-review.png`
-> - `contract-setup.png`
-> - `work-log.png`
 
 *All figures and customers are fictional and provided for skills demonstration, not actual business performance.*
