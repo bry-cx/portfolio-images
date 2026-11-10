@@ -18,7 +18,7 @@ A PivotTable and PivotChart summarize monthly direct work-order charges by recei
 
 ## Work Orders
 
-![Work Orders worksheet](work-orders.png)
+![Work Orders worksheet](work-orders.png.png)
 
 Tracks providing and receiving entities, service dates, labor hours, hourly rates, materials, total costs, billing months, and status.
 
@@ -56,14 +56,5 @@ Combines direct and shared charges into expected totals and uses formulas plus c
 - Invoice variance detection and conditional formatting
 - PivotTables, PivotCharts, and reporting summaries
 
-## Files to Upload
-
-Add the following files **to this folder** using the exact filenames below; the image previews and workbook link above will work when the files are present:
-
-- `Intercompany_Billing_Tracker_Practice.xlsx`
-- `intercompany-dashboard.png`
-- `work-orders.png`
-- `allocation-rules.png`
-- `invoice-review.png`
 
 *Practice project only; no real customer, employer, or financial records are included.*
